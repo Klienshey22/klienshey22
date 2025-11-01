@@ -1,5 +1,5 @@
 
-# Active Directory Simulation – CyberTech Solutions
+# Active Directory Simulation – Adex Technologies
 
 This project is the deployment of a Windows Server Domain Controller (Active Directory) for a company called **Adex Technologies**. It includes domain setup, client configuration, OU design, group policies, and access control in an enterprise environment.
 
