@@ -40,7 +40,7 @@ Server  PC1 (Win 8)   PC2 (Win XP)
 
 | Device        | IP Address      | Role                        |
 |---------------|----------------|-----------------------------|
-| Windows Server| 10.0.5.5  | AD Domain Controller (DC)   |
+| Windows Server| 10.0.2.4  | AD Domain Controller (DC)   |
 | Windows 8 PC  | DHCP    | Client (Accounts)           |
 | Windows XP PC | DHCP    | Legacy Client               |
 
@@ -48,8 +48,8 @@ Server  PC1 (Win 8)   PC2 (Win XP)
 
 ## Domain Configuration
 
-- **Domain Name**: `cybertech.local`
-- **Server Name**: `CYBERTECH`
+- **Domain Name**: `Adex.local`
+- **Server Name**: `Adex-Technologies`
 - **Static IP**: `10.0.2.4`
 - **AD Roles Installed**: AD DS, DNS (DHCP)
 
@@ -60,7 +60,7 @@ Server  PC1 (Win 8)   PC2 (Win XP)
 Created using **Active Directory Users and Computers**:
 
 ```
-CyberTech.local
+Adex.local
 ├── OU: IT Department
 │   └── Users: Alex.IT
     └── Users: Charles.IT
