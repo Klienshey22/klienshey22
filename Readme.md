@@ -88,7 +88,8 @@ Result: Access to shutdown, restart or sleep is disabled for all users in the **
 ## Screenshots
 
 - AD Domain Structure
-- 
+- <img width="576" height="450" alt="ad2" src="https://github.com/user-attachments/assets/e2df1413-004c-48ac-afcc-fcd4d82588fb" />
+
 - GPO Editor Screenshot
 - PC joined to domain
 - Result of denied access to Shutdown, restart or Sleep
