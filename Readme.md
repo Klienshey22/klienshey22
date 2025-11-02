@@ -88,9 +88,10 @@ Result: Access to shutdown, restart or sleep is disabled for all users in the **
 ## Screenshots
 
 - AD Domain Structure
+- 
 - GPO Editor Screenshot
 - PC joined to domain
-- Result of denied USB access
+- Result of denied access to Shutdown, restart or Sleep
 
 ---
 
