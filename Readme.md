@@ -48,7 +48,7 @@ Server  PC1 (Win 8.1)   PC2 (Win 8.1)
 
 ## Domain Configuration
 
-- **Domain Name**: `Adex.local`
+- **Domain Name**: `Adex.com`
 - **Server Name**: `Adex-Technologies`
 - **Static IP**: `10.0.2.4`
 - **AD Roles Installed**: AD DS, DNS (DHCP)
@@ -61,11 +61,11 @@ Created using **Active Directory Users and Computers**:
 
 ```
 Adex.local
-├── OU: IT Department
+├── OU(EKITI): IT Department
 │   └── Users: Chisanzo.IT
     └── Users: Oluwaseyi.IT
 
-├── OU: Sales
+├── OU(OSUN): Sales
 │   └── Users: Ibukun.Sales
 ```
 
@@ -89,9 +89,12 @@ Result: Access to shutdown, restart or sleep is disabled for all users in the **
 
 - AD Domain Structure
 - <img width="576" height="450" alt="ad2" src="https://github.com/user-attachments/assets/e2df1413-004c-48ac-afcc-fcd4d82588fb" />
-
 - GPO Editor Screenshot
+- <img width="576" height="452" alt="AD3" src="https://github.com/user-attachments/assets/519cd91f-5142-4160-842a-f25c01601733" />
 - PC joined to domain
+- <img width="576" height="450" alt="AD7" src="https://github.com/user-attachments/assets/60a0e70d-b1cd-4ff9-b7c9-16ce2a3ab27d" />
+<img width="576" height="450" alt="AD5" src="https://github.com/user-attachments/assets/bcfd4c62-ee9b-4d83-9d39-168b65d4c51f" />
+
 - Result of denied access to Shutdown, restart or Sleep
 
 ---
