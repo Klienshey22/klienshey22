@@ -99,6 +99,7 @@ Result: Access to shutdown, restart or sleep is disabled for all users in the **
 <img width="576" height="450" alt="AD5" src="https://github.com/user-attachments/assets/bcfd4c62-ee9b-4d83-9d39-168b65d4c51f" />
 
 - Result of denied access to Shutdown, restart or Sleep
+<img width="1024" height="904" alt="Screenshot 2025-11-03 162306" src="https://github.com/user-attachments/assets/bd867dad-61c5-476c-a4f6-7d8a4819068b" />
 
 ---
 
