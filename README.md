@@ -59,18 +59,18 @@
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/Klienshey22/klienshey22/blob/main/My%20Cybersecurity%20Home%20Lab.pdf) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/Klienshey22/klienshey22/blob/main/Readme.md) |
 | 03-AWS Deployment & Hardening | AWS IAM Cloud Security | [View Repo](https://github.com/Klienshey22/klienshey22/blob/main/AWS%20IAM%20Cloud%20Security%20Project.pdf) |
-| 04-Footpring and Gathering of Information | Passive footprinting | [View Repo](https://github.com/Klienshey22/klienshey22/blob/main/AWS%20IAM%20Cloud%20Security%20Project.pdf) |
-| 04-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
-| 05-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
-| 06-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
-| 07-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
-| 08-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
-| 09-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
-| 10-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
-| 11-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
-| 12-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
-| 13-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
-| 14-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
+| 04-Footpring and Gathering of Information | Passive footprinting | [View Repo](https://github.com/Klienshey22/klienshey22/blob/main/Passive%20Reconnaissance%20Scan%20Report%20(1).docx%20for%20dnsdumpster.com.docx) |
+| 05-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
+| 06-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
+| 07-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
+| 08-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
+| 09-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
+| 10-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
+| 11-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
+| 12-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
+| 13-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
+| 14-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
+| 15-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
 |
 
 ---
