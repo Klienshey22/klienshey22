@@ -59,7 +59,7 @@
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/Klienshey22/klienshey22/blob/main/My%20Cybersecurity%20Home%20Lab.pdf) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/Klienshey22/klienshey22/blob/main/Readme.md) |
 | 03-AWS Deployment & Hardening | AWS IAM Cloud Security | [View Repo](https://github.com/Klienshey22/klienshey22/blob/main/AWS%20IAM%20Cloud%20Security%20Project.pdf) |
-| 04-Footpring and Gathering of Information | Passive footprinting | [View Repo](https://github.com/Klienshey22/klienshey22/blob/main/Passive%20Reconnaissance%20Scan%20Report%20(1).docx%20for%20dnsdumpster.com.docx) |
+| 04-Footpring and Gathering of Information | Passive footprinting | [View Repo](https://github.com/Klienshey22/klienshey22/blob/main/Passive%20Reconnaissance%20Scan%20Report%20(1).docx%20for%20dnsdumpster.com.pdf) |
 | 05-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
 | 06-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
 | 07-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
