@@ -62,7 +62,7 @@
 | 04-Footpring and Gathering of Information | Passive footprinting | [View Repo](https://github.com/Klienshey22/klienshey22/blob/main/Passive%20Reconnaissance%20Scan%20Report%20(1).docx%20for%20dnsdumpster.com.pdf) |
 | 05-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
 | 06-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
-| 07-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
+| 07-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/Klienshey22/klienshey22/blob/main/Web%20Application%20Vulnerability%20Reconnaissance(22).pdf) |
 | 08-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
 | 09-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
 | 10-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
